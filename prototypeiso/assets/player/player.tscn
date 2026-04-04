@@ -66,3 +66,6 @@ shape = SubResource("CircleShape2D_ouxva")
 texture_filter = 1
 sprite_frames = SubResource("SpriteFrames_op4fd")
 animation = &"up"
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1449318867]
+zoom = Vector2(5, 5)
