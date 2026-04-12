@@ -1,3 +1,4 @@
 res://scenes/map.tscn
 res://scripts/player.gd
 res://assets/player/player.tscn
+res://scripts/._player.gd

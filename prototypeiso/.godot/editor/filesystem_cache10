@@ -1,12 +1,18 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1775315556
-icon.svg::CompressedTexture2D::480532709180661787::1775314425::1775315557::1::::<><><>0<>0<>36fb92e66c2d95d40a1eb361821d94a1<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-::res://assets/::1775314425
-isotopeblue.png::CompressedTexture2D::3655113533745991028::1775314425::1775314425::1::::<><><>0<>0<>a8192d8390ff465ceda03cbf110d7bcd<>res://.godot/imported/isotopeblue.png-147232faab257803fc198b1aeb76ac5b.ctex::
-::res://assets/player/::1775314425
-player top down.png::CompressedTexture2D::4342836887520542013::1775314425::1775314425::1::::<><><>0<>0<>bec769b0ee1880ca23b13cac871d7ef4<>res://.godot/imported/player top down.png-c870d581c34598d7ec67819b11e68f7c.ctex::
-player.tscn::PackedScene::1122475929310388285::1775314425::0::1::::<><><>0<>0<><>::uid://bnim2oq7stqog::::res://scripts/player.gd<>uid://b24x5hy4thgxp::::res://assets/player/player top down.png
-::res://scenes/::1775314425
-map.tscn::PackedScene::994437767949240597::1775314425::0::1::::<><><>0<>0<><>::uid://bsctgk453wsfs::::res://assets/isotopeblue.png
-::res://scripts/::1775314425
-player.gd::GDScript::3316168254891156058::1775314425::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://::1775316542
+._icon.svg::CompressedTexture2D::3116999734004688205::1775316351::1775316549::0::::<><><>0<>0<>d9d6ffa8edb955f6932be00470d22571<>::
+icon.svg::CompressedTexture2D::480532709180661787::1775154796::1775155095::1::::<><><>0<>0<>36fb92e66c2d95d40a1eb361821d94a1<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://assets/::1775316541
+._isotopeblue.png::CompressedTexture2D::1281931104323037161::1775316351::1775316549::0::::<><><>0<>0<>6a93f915b7251b0eef8f1097a80cc5dc<>::
+isotopeblue.png::CompressedTexture2D::3655113533745991028::1775154796::1775155095::1::::<><><>0<>0<>a8192d8390ff465ceda03cbf110d7bcd<>res://.godot/imported/isotopeblue.png-147232faab257803fc198b1aeb76ac5b.ctex::
+::res://assets/player/::1775316542
+._player top down.png::CompressedTexture2D::6062391803360072447::1775316351::1775316549::0::::<><><>0<>0<>fc36a9bbdb96a542def7fe982c427316<>::
+._player.tscn::PackedScene::-1::1775316542::0::1::::<><><>0<>0<><>::
+player top down.png::CompressedTexture2D::4342836887520542013::1775157379::1775157379::1::::<><><>0<>0<>bec769b0ee1880ca23b13cac871d7ef4<>res://.godot/imported/player top down.png-c870d581c34598d7ec67819b11e68f7c.ctex::
+player.tscn::PackedScene::1122475929310388285::1775316542::0::1::::<><><>0<>0<><>::uid://bnim2oq7stqog::::res://scripts/player.gd<>uid://b24x5hy4thgxp::::res://assets/player/player top down.png
+::res://scenes/::1775316542
+._map.tscn::PackedScene::-1::1775316542::0::1::::<><><>0<>0<><>::
+map.tscn::PackedScene::994437767949240597::1775316542::0::1::::<><><>0<>0<><>::uid://bsctgk453wsfs::::res://assets/isotopeblue.png<>uid://p80aq3i8174d::::res://assets/player/player.tscn
+::res://scripts/::1775316542
+._player.gd::GDScript::-1::1775316542::0::1::::<>RefCounted<><>0<>0<><>::
+player.gd::GDScript::3316168254891156058::1775316542::0::1::::<>CharacterBody2D<><>0<>0<><>::
